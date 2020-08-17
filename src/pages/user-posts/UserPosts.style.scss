@@ -1,0 +1,15 @@
+.pagination-container{
+    display: flex;
+    width: 20%;
+    margin: 100px auto;
+    justify-content: space-between;
+
+    .page-indicator{
+        display: flex;
+        align-items: center;
+    }
+
+    button{
+        padding: 10px;
+    }
+}
